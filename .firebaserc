@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ecommerceapp-6dc9a": {
+      "hosting": {
+        "EcommerceApp": [
+          "ecommerceapp-6dc9a"
+        ]
+      }
+    }
+  }
+}
